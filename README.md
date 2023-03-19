@@ -10,6 +10,8 @@ How to run project:
 
 
 ![image](https://user-images.githubusercontent.com/50831575/226168540-eaff9e45-43de-4695-8517-992a187ca5af.png).
+![image](https://user-images.githubusercontent.com/50831575/226168628-55aa2bcd-ed50-4e95-81d7-73de845af1d0.png)
+
 
 
 
